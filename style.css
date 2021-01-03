@@ -1,0 +1,10 @@
+body {
+    border-style: none;
+}
+
+.main {
+    border-style: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
