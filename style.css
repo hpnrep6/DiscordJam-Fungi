@@ -1,4 +1,4 @@
-.main{
+.main canvas{
     margin-right: auto;
     margin-left: auto;
     display: block;
@@ -7,4 +7,3 @@
 body {
     background-color: rgb(0,20,40);
 }
-
